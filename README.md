@@ -22,5 +22,5 @@ Sala: Laboratório de Geoprocessamento e Sala 01 (Prédio da Matemática e Físi
 - Aula 2: [Slides](https://canva.link/mdbkx0q24wl1i7o)
 - Aula 3: [Slides](https://canva.link/y59nmc08d8clgxd)
 - Aula 4: [Slides](https://canva.link/a1vk0uwnr47l8jz)
-- Aula 5 (08/04/2026): [Slides]()
+- Aula 5 (08/04/2026): [Slides](https://canva.link/yzraek4246xc9f6)
   - Visual G: [Link 1](https://drive.google.com/drive/folders/12pBWgxNd_NFDpEYVttvvx01rfXQVGX4e?usp=sharing); [Link 2](https://sourceforge.net/projects/visualg30/); .
