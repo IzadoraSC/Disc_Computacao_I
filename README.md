@@ -1,4 +1,4 @@
-# Computação Aplicada às Ciências Atmosféricas II
+# Computação Aplicada às Ciências Atmosféricas I
 
 Disciplina: Computação Aplicada às Ciências Atmosféricas I
 
@@ -12,7 +12,7 @@ Horário: 07h:30 – 10h:50
 
 Contato: izadorasccs@gmail.com
 
-Sala: Laboratório de Geoprocessamento e Sala 01 (Prédio da Matemática e Física - Pavilho da Matemática)
+Sala: Laboratório de Geoprocessamento (CECEN - Prédio de Geografia) e Sala 01 (Prédio da Matemática e Física - Pavilho da Matemática)
 
 ## Repositório para arquivos das aulas.
 
@@ -25,3 +25,5 @@ Sala: Laboratório de Geoprocessamento e Sala 01 (Prédio da Matemática e Físi
 - Aula 5 (08/04/2026): [Slides](https://canva.link/yzraek4246xc9f6)
   - Visual G: [Link 1](https://drive.google.com/drive/folders/12pBWgxNd_NFDpEYVttvvx01rfXQVGX4e?usp=sharing); [Link 2](https://sourceforge.net/projects/visualg30/);
   - Códigos (scripts) com algoritmos desenvolvidos durante a aula: [Link](https://drive.google.com/drive/folders/1Ff1Drl4vVmraZEZ8QxZEb5Oz8Ub9Nuf2?usp=sharing).
+- Aula 6 e 7[Link]():
+  - Código (script) da Aula: [Link]() 
