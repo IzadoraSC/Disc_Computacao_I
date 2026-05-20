@@ -29,3 +29,5 @@ Sala: Laboratório de Geoprocessamento (CECEN - Prédio de Geografia) e Sala 01 
 - Aula 6 e 7 [Link](https://canva.link/a9kwd6jrepk2fvl):
   - Código (script) da Aula: [01_introducao](https://drive.google.com/file/d/1b0h5hmjqpixJCl7DF6kl2EDesN9_IfUZ/view?usp=sharing)
   - Prática 01: [Link](https://drive.google.com/file/d/1zohPX0sgfTRv0TTITSrapo--EAOUfDdK/view?usp=sharing) 
+- Aula 8 [Link]()
+  - Código 03: [Link]() 
