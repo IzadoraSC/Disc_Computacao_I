@@ -33,3 +33,6 @@ Sala: Laboratório de Geoprocessamento (CECEN - Prédio de Geografia) e Sala 01 
 - Aula 8 [Slides](https://canva.link/15gd042bgs9jp5w)
   - Código 02 e 03: [Link](https://drive.google.com/drive/folders/1n4f8L8tVbcTq8MZbUVwKGm11Ofrq3xvz?usp=sharing)
   - [Posit Cloud](https://posit.cloud/)
+
+- Aula 9
+  - Prática 04: [Baixar dados](https://drive.google.com/drive/folders/1rjfb6wNYhh6ziOEBUDbHZ_JoyF5ySA6L?usp=drive_link)
