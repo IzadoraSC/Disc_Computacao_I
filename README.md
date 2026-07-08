@@ -36,3 +36,6 @@ Sala: Laboratório de Geoprocessamento (CECEN - Prédio de Geografia) e Sala 01 
 
 - Aula 9
   - Prática 04: [Baixar dados](https://drive.google.com/drive/folders/1rjfb6wNYhh6ziOEBUDbHZ_JoyF5ySA6L?usp=drive_link)
+
+- Aula 10 e 11 [Slides](https://canva.link/7zdtqihkvbl9n7j)
+  - Código 01 - Python - Google Colab: [Link](https://colab.research.google.com/drive/1nkQqjl_CZCZxLv1YZVI_7yuanFI0sz2B?usp=sharing)
